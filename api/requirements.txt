@@ -1,0 +1,5 @@
+nltk==3.8.1
+Flask==2.2.3
+scikit-learn==1.2.0
+
+# "import nltk; nltk.downlaod('omw-1.4'); nltk.download('wordnet')"
